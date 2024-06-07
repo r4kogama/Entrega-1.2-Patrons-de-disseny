@@ -2,7 +2,7 @@
 
 
 
-# Patron observer
+## Patron observer
 
 El patron observer se utiliza para notificar cambios de estado algun objeto, este patron parte  de un sujeto que notifica y un observador o muchos que recibe  esas notificaciones en cualquier cambio de estado.
 
@@ -41,6 +41,6 @@ class Sujeto {
 ```
 
 
-# para ejecutar la prueva de concepto y ver el resultado del patron observer  usar este comando:
+## para ejecutar la prueva de concepto y ver el resultado del patron observer  usar este comando:
 
-ts-node news-observer.ts
+### ts-node news-observer.ts
